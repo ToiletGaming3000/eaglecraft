@@ -32,5 +32,5 @@ permissions:
 timeout: 30000
 servers:
   lobby:
-    address: localhost:25569
+    address: node2.magmanode.com:30930
     restricted: false
